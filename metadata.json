@@ -1,0 +1,6 @@
+{
+  "name": "FindIt - Campus Lost and Found Management System",
+  "description": "Campus Lost and Found Management System (BACSE202, Vellore Institute of Technology) by Tejash Raj (25BDE0062) and Soham Sharma (25BDE0030).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
